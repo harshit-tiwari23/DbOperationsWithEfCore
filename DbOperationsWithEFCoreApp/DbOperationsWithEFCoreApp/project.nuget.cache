@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "36VxerOk3WU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ajeet\\OneDrive\\Desktop\\Workspace\\Entity Framework Core\\src\\DbOperationsWithEfCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajeet\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Ajeet\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
